@@ -1,0 +1,2 @@
+.to-do__info{display:flex;flex-direction:column}.to-do__info-complete,.to-do__info-name{display:block}.to_do__info_complete--done{color:#15ff00;font-size:30px}.to_do__info_complete--not_done{color:red;font-size:30px}.user_info{font-size:20px}.to-do__list{display:flex;flex-direction:column;grid-gap:20px;gap:20px}.to-do__list-item{border:2px solid #5865db;border-radius:10px;width:300px;list-style:none;padding:10px}
+/*# sourceMappingURL=main.a948868c.chunk.css.map */
